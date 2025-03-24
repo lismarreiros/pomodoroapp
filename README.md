@@ -19,7 +19,7 @@ Este é um aplicativo simples de **Pomodoro Timer**, desenvolvido com **React**,
 ## 🔧 Como rodar o projeto localmente:  
 1. Clone o repositório:  
 ```bash  
-git clone https://github.com/lismarreiros/seu-repositorio-pomodoro.git  
+git clone https://github.com/lismarreiros/pomodoroapp.git  
 ```  
 2. Acesse a pasta do projeto:  
 ```bash  
